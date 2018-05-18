@@ -417,8 +417,16 @@ footer span:nth-child(2){
 
 
 
+.modal-content {
+    padding: 0.3rem 0.5rem;
+}
 
 
+.row div {
+
+    margin: .3rem auto;
+
+}
 
 
 
